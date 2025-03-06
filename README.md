@@ -50,7 +50,7 @@ The **Heap Management System** is a C-based simulation of memory allocation and 
 
 #### On Windows, macOS, and Linux:
 1. Open a terminal (Command Prompt on Windows, Terminal on macOS/Linux).
-2. Navigate to the directory containing the `heap_management.c` file.
+2. Navigate to the directory containing the `heapManagement.c` file.
 3. Compile the code using GCC:
 
    - **On Windows:**
