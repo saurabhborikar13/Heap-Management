@@ -55,14 +55,14 @@ The **Heap Management System** is a C-based simulation of memory allocation and 
 
    - **On Windows:**
      ```bash
-     gcc heap_management.c -o heap_management.exe
-     heap_management.exe
+     gcc heapManagement.c -o heapManagement.exe
+     heapManagement.exe
      ```
 
    - **On macOS/Linux:**
      ```bash
-     gcc heap_management.c -o heap_management
-     ./heap_management
+     gcc heapManagement.c -o heapManagement
+     ./heapManagement
      ```
 
 ---
